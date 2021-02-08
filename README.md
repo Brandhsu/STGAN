@@ -26,7 +26,7 @@ The two models will work against each other, with the generator trying to trick 
 [Paper](https://arxiv.org/pdf/1703.10593.pdf) | [Pytorch](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [TensorFlow](https://www.tensorflow.org/tutorials/generative/cyclegan)
 
 ### Augmented CycleGAN
-[Paper](https://arxiv.org/pdf/1802.10151.pdf)
+[Paper](https://arxiv.org/pdf/1802.10151.pdf) | [Pytorch](https://github.com/aalmah/augmented_cyclegan)
 
 ### Training Generative Adversarial Networks with Limited Data
 [Paper](https://arxiv.org/pdf/2006.06676.pdf)
